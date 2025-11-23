@@ -27,6 +27,9 @@ OpenAI
 ChatGPT
 Gemini 3
 Claude
+大模型
+人工智能
+数据
 AI 伦理
 AI 诉讼
 滥用 风险
