@@ -27,6 +27,7 @@ OpenAI
 ChatGPT
 Gemini 3
 Claude
+千问
 大模型
 人工智能
 数据
